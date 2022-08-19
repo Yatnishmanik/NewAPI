@@ -1,1 +1,1 @@
-# NewAPI
+# NewsAPI
