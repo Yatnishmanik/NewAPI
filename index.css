@@ -1,0 +1,27 @@
+#carde{
+    background-color: black;
+    border-radius: 5mm;
+    color: white;
+    border-color: rgb(1, 1, 161);
+    
+}
+#butt{
+    background-color: black;
+    color: rgb(5, 133, 12);
+}
+#cards{
+    background-color: black;
+}
+#cont{
+    font-family: Forte;
+    color: rgb(164, 160, 156);
+}
+body{
+    background-color: black;
+}
+h1{
+    color: rgb(16, 16, 21);
+    background-color: blue;
+    text-align:center;
+    
+}
